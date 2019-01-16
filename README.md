@@ -31,8 +31,6 @@ Voglio tutti i post che contengono la parola book o in name o in description.
 ##### le funzioni possono essere inserite o nel package npm e/o nel progetto Server stesso
 
 
-# Esame in itinere back-end 2
-
 # Esame Finale Back-End 
 ### Creare un Client
 ##### Implementare un client utilizzando il framework VueJs insieme un framework di UI/UX (es Bootstrap) che mi consenta di:
